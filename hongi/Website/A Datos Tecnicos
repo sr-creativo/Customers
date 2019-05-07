@@ -1,6 +1,9 @@
 Especificaciones
 
-/Fuentes tipografica
+/Fuentes tipografica: Google Font
+       <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+   Specify in CSS
+       font-family: 'Nunito', sans-serif;
    Textos: Nunito (regular, normal)
    Titulos: Nunito Bold
 
