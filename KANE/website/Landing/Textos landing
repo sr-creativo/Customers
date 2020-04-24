@@ -1,0 +1,50 @@
+Sección 01
+
+    Titulos:
+        "Crear la aplicación de tus sueños es posible"
+    Boton:
+        "explora kane code"
+   
+Sección 02
+
+    Logo kane
+        "<Un movimiento low code>"
+        
+Sección 03
+
+    Titulos:
+        "Desarrolla aplicaciones en días"
+    Copy:
+        "Kane Code cubre escenarios en los que es necesario desplegar rápidamente una solución: modernizar aplicaciones, realizar integraciones entre sistemas o digitalizar procesos que se realizan manualmente; sin preocuparse por los detalles técnicos de arquitectura, integración o front-end."
+    Boton:
+        "casos de éxito"
+        
+ Sección 04
+
+    Titulos:
+        "El low code de la generación de Citizen Developers"
+    Copy:
+        "Kane Code quiere que conozcas los beneficios de ser parte de la comunidad de citizen developers que podrá acceder a la visión low code del futuro desde ya. Se parte y colabora, aprende y gestiona el reconocimiento como Citizen Developer de Kane Code"
+    Boton:
+        "unirme a la comunidad"
+        
+ Sección 05
+
+    Titulos:
+        "Quienes han confiando en nosotros"
+        
+Sección 06
+
+    Titulos:
+        "Comienza ahora"
+
+    Celda 01
+      Titulo: Servicio CLOUD
+      Copy: - Número ilimitado de usuarios en la plataforma - Incluye los servicios de hosting - Backup automático de datos y código
+      Boton: quiero comprar
+      
+    Celda 02
+      Titulo: Licenciamiento ON PREMISE
+      Copy: Dimensionamiento personalizado para mi solución empresarial
+      Boton: quiero cotizar
+      
